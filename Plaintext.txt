@@ -1,0 +1,17 @@
+used-car-price-web/
+├── node_modules/
+├── public/
+│   ├── images/         <-- Araç görsellerinin bulunduğu yer
+│   └── screenshot.png  <-- Arayüzün ekran görüntüsü
+├── src/
+│   ├── assets/
+│   ├── App.jsx         <-- Ana arayüz bileşenimiz
+│   ├── carPredictor.js <-- Veri seti tabanlı tahmin algoritması
+│   ├── index.css       <-- Tailwind direktifleri
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+└── vite.config.js
